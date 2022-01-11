@@ -1,1 +1,1 @@
-# en.javascript.info
+# ka.javascript.info
